@@ -1,7 +1,7 @@
 // @flow strict
 
 import { personalData } from "@/utils/data/personal-data";
-import BlogCard from "../components/homepage/blog/blog-card";
+
 import Link from 'next/link';
 
 

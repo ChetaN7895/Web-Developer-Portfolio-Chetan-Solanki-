@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+</p>
 
 ---
 
@@ -15,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https:///).
+## View live preview [here](https://abusaid.netlify.app/).
 
 ---
 
@@ -157,11 +160,11 @@ export const personalData = {
   address: "Palri,Sumerpur,Pali,Rajasthan, India",
   github: "https://github.com/ChetaN7895",
   facebook: "https://www.facebook.com//",
-  linkedIn: "https://www.linkedin.com/in/chetan-solanki-66a6842b5/",
+  linkedIn: "https://www.linkedin.com/in/Chetan Solanki/",
   twitter: "https://twitter.com/",
-  stackOverflow: "https://stackoverflow.com/users//",
-  leetcode: "https://leetcode.com/ChetanSolanki78/",
-  devUsername: "ChetanSolanki",
+  stackOverflow: "https://stackoverflow.com/users/16840768/",
+  leetcode: "https://leetcode.com//",
+  devUsername: "",
   resume: "...",
 };
 ```
