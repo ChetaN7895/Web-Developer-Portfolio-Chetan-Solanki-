@@ -13,7 +13,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https:///).
+## View live preview [here](https://chetan-solanki-portfolio.netlify.app/).
 
 ---
 
