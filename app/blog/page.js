@@ -46,7 +46,7 @@ async function page() {
       <div className="border border-[#1d293a] hover:border-[#464c6a] transition-all duration-500 bg-[#1b203e] rounded-lg relative group"
     >
       <div>
-<iframe src="https://www.instagram.com/p/DGGATy1o9o8/embed" width="500" height="500" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+<iframe src="https://www.instagram.com/p/DSHWK61DMrd/embed" width="500" height="500" frameBorder="0" scrolling="no" allowFullScreen></iframe>
 
 </div>
    <div>
