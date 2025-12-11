@@ -17,7 +17,7 @@ function Footer() {
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/ChetaN7895/Web-Developer-Portfolio"
+              href="https://github.com/ChetaN7895/ChetaN7895/Web-Developer-Portfolio-Chetan-Solanki-"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <IoStar />
@@ -25,7 +25,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/ChetaN7895/Web-Developer-Portfolio/fork"
+              href="https://github.com/ChetaN7895/ChetaN7895/Web-Developer-Portfolio-Chetan-Solanki-/fork"
               className="flex items-center gap-2 uppercase hover:text-[#16f2b3]"
             >
               <CgGitFork />
